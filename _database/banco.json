@@ -1,0 +1,22 @@
+{
+  "times": [
+    {
+      "id": 1,
+      "Nome": "Vermelhos",
+      "Jogador1": "Moraes",
+      "Jogador2": "Silva"
+    },
+    {
+      "id": 2,
+      "Nome": "Azuis",
+      "Jogador1": "César",
+      "Jogador2": "Xerxes"
+    },
+    {
+      "Nome": "Pretos",
+      "Jogador1": "José",
+      "Jogador2": "Ricardo",
+      "id": 3
+    }
+  ]
+}
